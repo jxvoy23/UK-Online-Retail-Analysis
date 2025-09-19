@@ -36,15 +36,3 @@ All computed metrics are saved as **CSV files** in the `csv_reports/` folder for
 - Average daily revenue for top countries
 - Total yearly revenue for top countries  
 
----
-
-## **Getting Started**
-
-### Prerequisites
-- Python 3.x
-- Packages: `pandas`, `matplotlib`, `seaborn`, `openpyxl`
-
-Install dependencies using pip:
-
-```bash
-pip install pandas matplotlib seaborn openpyxl
